@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @awuoryogo (Audlyne)
-- 👀 I’m interested in ...Data analytics, business analytics
+- 👀 I’m interested in ...Data analytics, business analytics, cybersecurity, cloud computing
 - 🌱 I’m currently learning ...SQL queries, tableau, python, R, bigquery
 - 📫 How to reach me ...9014987075
 
